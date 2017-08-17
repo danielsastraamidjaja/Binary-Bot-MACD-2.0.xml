@@ -1,21 +1,4 @@
-MACD 2.0.xml
-DETAILS
-ACTIVITY
-Today
-
-You edited an item
-3:50 AM
-XML
-MACD 2.0.xml
-
-You uploaded an item
-3:37 AM
-XML
-MACD 2.0.xml
-No recorded activity before August 18, 2017
-Sort direction changed to ascending.
-
-﻿<xml xmlns="http://www.w3.org/1999/xhtml" collection="false">
+<xml xmlns="http://www.w3.org/1999/xhtml" collection="false">
   <block type="trade" id="b!](N|bIs@Xp8O.L(W]w" x="0" y="0">
     <field name="MARKET_LIST">volidx</field>
     <field name="SUBMARKET_LIST">random_index</field>
